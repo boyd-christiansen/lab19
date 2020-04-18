@@ -4,7 +4,7 @@
  *)
 
 (* Make use of the ATM component behaviors *)
-module ATM = ATMcomponent ;;
+module ATM = ATMcomponents ;;
 open Printf ;;
 
 (* Exceptions for: *)
